@@ -36,7 +36,7 @@ export default function Offline(){
             <NavBar/>
             <div className="formContainer">
                 <div className="spacer"></div>
-                <div className="offlineForm"> {/* start of form */}
+                <div className="formBody"> {/* start of form */}
                     <div className="radioInput">
                         <div className="radioButtons">
                             <input type="radio"
